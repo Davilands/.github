@@ -1,5 +1,7 @@
 # PolyTekNik GitHub Organization
 
+<img src="https://github.com/PolyTekNik/bee/blob/main/back-ground/4.png?raw=true" ></img>
+
 Chào mừng bạn đến với tổ chức GitHub của PolyTekNik! Chúng tôi là một cộng đồng của sinh viên và giảng viên tại trường FPT Polytechnic, tập trung vào chia sẻ và phát triển kiến thức trong lĩnh vực Công nghệ thông tin (IT).
 
 ## Mục tiêu
