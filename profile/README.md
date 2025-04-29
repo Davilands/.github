@@ -1,35 +1,54 @@
-# PolyTekNik GitHub Organization
+# Devlands GitHub Organization
 
-<img src="https://github.com/PolyTekNik/bee/blob/main/back-ground/4.png?raw=true" ></img>
+<img src="https://github.com/PolyTekNik/bee/blob/main/back-ground/4.png?raw=true" alt="Devlands Banner">
 
-Chào mừng bạn đến với tổ chức GitHub của PolyTekNik! Chúng tôi là một cộng đồng của sinh viên và giảng viên tại trường FPT Polytechnic, tập trung vào chia sẻ và phát triển kiến thức trong lĩnh vực Công nghệ thông tin (IT).
+Chào mừng bạn đến với tổ chức GitHub của **Devlands**!  
+Chúng tôi là một cộng đồng yêu thích Công nghệ Thông tin, tập trung vào việc chia sẻ, học hỏi và phát triển các dự án lập trình thực tế.
 
-## Mục tiêu
+---
 
-Tổ chức PolyTekNik được thành lập với mục tiêu cung cấp một nền tảng cho sinh viên và giảng viên chia sẻ bài tập, tài liệu học tập và dự án liên quan đến ngành IT tại trường FPT Polytechnic. Chúng tôi tin rằng việc tạo ra một cộng đồng mạnh mẽ trên GitHub sẽ giúp tăng cường sự học tập và sáng tạo trong cộng đồng của chúng tôi.
+## 📌 Mục tiêu
 
-## Nội dung
+Tổ chức **Devlands** được thành lập nhằm:
 
-Trong tổ chức PolyTekNik, bạn sẽ tìm thấy một loạt các repository (kho lưu trữ) chứa các bài tập, dự án và tài liệu học tập. Dưới đây là một số loại nội dung chính mà chúng tôi chia sẻ:
+- Cung cấp nền tảng chia sẻ bài tập, tài liệu học tập, và dự án thực tiễn.
+- Kết nối cộng đồng lập trình viên trẻ năng động.
+- Thúc đẩy sáng tạo và phát triển kỹ năng thông qua các dự án thực tế.
 
-- **Bài tập**: Các bài tập lập trình, thực hành và dự án thực tế liên quan đến các môn học trong ngành IT.
-- **Tài liệu học tập**: Tài liệu, slide, sách điện tử và bài giảng được chia sẻ từ các khóa học IT tại trường FPT Polytechnic.
-- **Dự án thực hành**: Các dự án thực hành đa dạng từ cơ bản đến nâng cao, giúp sinh viên áp dụng kiến thức vào thực tế và phát triển kỹ năng lập trình.
+---
 
-## Tham gia
+## 📚 Nội dung
 
-Chúng tôi rất hoan nghênh sự tham gia từ tất cả các sinh viên và giảng viên quan tâm đến việc chia sẻ và học hỏi. Để tham gia cùng chúng tôi:
+Trong tổ chức **Devlands**, bạn sẽ tìm thấy:
 
-1. **Tạo tài khoản GitHub**: Nếu bạn chưa có, hãy tạo một tài khoản GitHub tại [github.com](https://github.com).
-2. **Liên hệ với chúng tôi**: Gửi yêu cầu gia nhập tổ chức PolyTekNik qua email hoặc các phương tiện liên lạc khác.
-3. **Bắt đầu chia sẻ và học hỏi**: Đọc và đóng góp vào các repository của chúng tôi, hoặc tạo ra những dự án mới để chia sẻ kiến thức của bạn với cộng đồng.
+- **Bài tập**: Các bài tập lập trình, thực hành, dự án nhỏ.
+- **Tài liệu học tập**: Slide bài giảng, sách chuyên ngành, tài liệu lập trình chuyên sâu.
+- **Dự án thực hành**: Các dự án lập trình thực tế từ cơ bản đến nâng cao.
 
-## Liên hệ
+---
 
-Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, vui lòng liên hệ với chúng tôi qua:
+## 🤝 Cách tham gia
 
-- Email: polyteknik@example.com
-- GitHub Issues: [github.com/PolyTekNik/issues](https://github.com/PolyTekNik/issues)
+1. **Tạo tài khoản GitHub** tại [github.com](https://github.com).
+2. **Theo dõi và tham gia Devlands**.
+3. **Đóng góp bài tập, tài liệu, dự án** để xây dựng cộng đồng lớn mạnh hơn.
 
-Hãy cùng nhau xây dựng một cộng đồng học tập mạnh mẽ và sáng tạo tại FPT Polytechnic!
+---
 
+## 📞 Liên hệ
+
+- Email: [devlands@example.com](mailto:devlands@example.com) *(cập nhật nếu cần)*
+- GitHub Issues: [github.com/Devlands/issues](https://github.com/Devlands/issues)
+
+---
+
+## 🌟 Kênh mạng xã hội
+
+[![YouTube](https://img.shields.io/badge/YouTube-Devlands-red?logo=youtube)](https://www.youtube.com/@devlands)
+[![TikTok Devlands](https://img.shields.io/badge/TikTok-Devlands-black?logo=tiktok)](https://www.tiktok.com/@devlands)
+[![TikTok Cá nhân](https://img.shields.io/badge/TikTok-TheAnIshtar-black?logo=tiktok)](https://www.tiktok.com/@theanishtar)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord)](https://discord.com/invite/zdNQQ7eb)
+
+---
+
+Cùng nhau học hỏi, sáng tạo và phát triển tại **Devlands**! 🚀
