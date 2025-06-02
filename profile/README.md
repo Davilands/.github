@@ -48,6 +48,8 @@ Trong tổ chức **Devlands**, bạn sẽ tìm thấy:
 [![TikTok Devlands](https://img.shields.io/badge/TikTok-Devlands-black?logo=tiktok)](https://www.tiktok.com/@devlands)
 [![TikTok Cá nhân](https://img.shields.io/badge/TikTok-TheAnIshtar-black?logo=tiktok)](https://www.tiktok.com/@theanishtar)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord)](https://discord.com/invite/zdNQQ7eb)
+[![facebook](https://img.shields.io/badge/Facebook-Join%20Group-blue?logo=facebook)](https://www.facebook.com/share/g/1BscXnW7o2/)
+
 
 ---
 
