@@ -1,7 +1,5 @@
 # Devlands GitHub Organization
 
-<img src="https://github.com/PolyTekNik/bee/blob/main/back-ground/4.png?raw=true" alt="Devlands Banner">
-
 Chào mừng bạn đến với tổ chức GitHub của **Devlands**!  
 Chúng tôi là một cộng đồng yêu thích Công nghệ Thông tin, tập trung vào việc chia sẻ, học hỏi và phát triển các dự án lập trình thực tế.
 
@@ -47,7 +45,7 @@ Trong tổ chức **Devlands**, bạn sẽ tìm thấy:
 [![YouTube](https://img.shields.io/badge/YouTube-Devlands-red?logo=youtube)](https://www.youtube.com/@devlands)
 [![TikTok Devlands](https://img.shields.io/badge/TikTok-Devlands-black?logo=tiktok)](https://www.tiktok.com/@devlands)
 [![TikTok Cá nhân](https://img.shields.io/badge/TikTok-TheAnIshtar-black?logo=tiktok)](https://www.tiktok.com/@theanishtar)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord)](https://discord.com/invite/zdNQQ7eb)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord)](https://discord.gg/WEpFsvBruk)
 [![facebook](https://img.shields.io/badge/Facebook-Join%20Group-blue?logo=facebook)](https://www.facebook.com/share/g/1BscXnW7o2/)
 
 
